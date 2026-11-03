@@ -11,7 +11,7 @@ The application is built using **Python, Scikit-learn, and Streamlit**, providin
 
 Try the app here:
 
-https://paylytics.streamlit.app/
+[Click here to open app] (https://paylytics-a-salary-prediction-applicaion-xey69pkscsbifa44rgkkb.streamlit.app/)
 
 ---
 
